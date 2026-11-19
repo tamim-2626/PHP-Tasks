@@ -1,6 +1,6 @@
 <?php
 
-$name = "Tamim MFC";
+$name = "Tamim";
 $age = 22;
 
 echo "<h1>Welcome to PHP</h1>";
